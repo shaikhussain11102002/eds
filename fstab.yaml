@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p149839-e1544194.adobeaemcloud.com/bin/franklin.delivery/shaikhussain11102002/eds/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://capgemini-my.sharepoint.com/:f:/r/personal/shaik-hussain_ahamed_capgemini_com/Documents/Aemeds?csf=1&web=1&e=csdmwt
