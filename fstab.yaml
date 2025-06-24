@@ -1,4 +1,4 @@
 mountpoints:
-  /: url: "https://localhost:4502/bin/franklin.delivery/shaikhussain11102002/eds/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://capgemini.sharepoint.com/sites/EDS9/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FEDS9%2FShared%20Documents%2FEDS%2FTestEDS&viewid=ac5ba97e%2D7d0d%2D4fb4%2Dab82%2D8033e8352392&csf=1&web=1&e=DhLewP&CID=ff171f25%2Daded%2D49d2%2D907a%2Daa683dc060c5&FolderCTID=0x012000DE40D740546921459FC37F0F54836F48
+    
+    
